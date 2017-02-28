@@ -8,7 +8,10 @@ Well, ok, this is my solution, I did it all by myself, so I don't know if there 
 Have a nice day :)
 
 # Other
-Author:		Fharamir
-Language:	C#
-Date:		  07/2016
-Type:		  Desktop app
+Author: Fharamir
+
+Language: C#
+
+Date: 07/2016
+
+Type: Desktop app
