@@ -1,0 +1,9 @@
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\bin\Debug\BigOperations.exe.config
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\bin\Debug\BigOperations.exe
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\bin\Debug\BigOperations.pdb
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\obj\Debug\BigOperations.csprojResolveAssemblyReference.cache
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\obj\Debug\BigOperations.Main.resources
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\obj\Debug\BigOperations.Properties.Resources.resources
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\obj\Debug\BigOperations.csproj.GenerateResource.Cache
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\obj\Debug\BigOperations.exe
+c:\users\federico\documents\visual studio 2013\Projects\BigOperations\BigOperations\obj\Debug\BigOperations.pdb
